@@ -14,7 +14,7 @@
 - [PRP · PRF 주사](https://sangjun2e-ddok.github.io/balanceone-preview/treatments/prp-prf/): 환자 본인의 혈액에서 뽑은 성분을 손상 부위에 주입합니다.
 - [체외충격파](https://sangjun2e-ddok.github.io/balanceone-preview/treatments/eswt/): 충격파 에너지를 손상된 힘줄과 인대에 전달해 조직 재생을 유도합니다.
 - [신장분사 · 무통증신호 치료](https://sangjun2e-ddok.github.io/balanceone-preview/treatments/device-therapy/): 근육을 늘리며 통증 신호를 조절하는 장비 치료입니다.
-- [특수근막이완](https://sangjun2e-ddok.github.io/balanceone-preview/treatments/special-mfr/): 굳어 붙은 심부 근막을 풀어 눌린 신경과 혈관의 흐름을 열고 관절 가동 범위를 되찾습니다.
+- [특수근막이완](https://sangjun2e-ddok.github.io/balanceone-preview/treatments/special-mfr/): 유착된 심부 근막을 풀어 눌린 신경과 혈관의 흐름을 열고 관절 가동 범위를 되찾습니다.
 - [운동치료 · 재활](https://sangjun2e-ddok.github.io/balanceone-preview/treatments/exercise-rehab/): 풀어낸 상태를 유지하도록 몸이 쓰는 방식 자체를 바꿉니다.
 - [자세 · 체형교정](https://sangjun2e-ddok.github.io/balanceone-preview/treatments/posture-correction/): 성장기 척추측만증과 자세 문제를 포함해 체형 불균형을 다룹니다.
 ## 매거진
