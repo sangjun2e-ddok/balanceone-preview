@@ -1,0 +1,87 @@
+{
+  "cert-spread-01": {
+    "width": 3840,
+    "height": 1880,
+    "widths": [
+      480,
+      960,
+      1440,
+      1920
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAgAA4BaJZwAAxblloRJwAD+mEUghlRnt4BZ5YIYbPMZvX9l5wxPwdj9NkMe2M76xPAAAAA="
+  },
+  "cert-spread-02": {
+    "width": 3800,
+    "height": 1820,
+    "widths": [
+      480,
+      960,
+      1440,
+      1920
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAgAA4BaJZQAAp0/ixwAAPz6wlvygvFwNv2WnbEGSUQwmgmtrvUcS/DkSEukMX9GsMcpn8wFmNgIAAA="
+  },
+  "cert-study-feature": {
+    "width": 3640,
+    "height": 1880,
+    "widths": [
+      480,
+      960,
+      1440,
+      1920
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAgAA4BaJZwAAn+4lJTGAAD+tg9tdgTL3E1fbWCMQBQk9Q2/YNNVMi/zV7eWTawPoYPCgRdAAA=="
+  },
+  "group-01-retouched": {
+    "width": 1448,
+    "height": 1086,
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwAgCdASoQAAwAA4BaJYgCdAYu5lKfaglsxapAAP5hACqB+wJPW4gTQd4c+1rwvBHZGMeyX9UgfeKEz21hp7wDlAUxxzFFGJLOiW7JlDPfxcOX0KTj+BdCXOjk3eRlXxWcyAAA"
+  },
+  "group-01": {
+    "width": 4000,
+    "height": 3000,
+    "widths": [
+      480,
+      960,
+      1440,
+      1920
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAwAA4BaJZAC7AYvXv5lURiOQAD94fgdy8B2twF0/Sr20e7TmEkrFu07HQbCJZ+llkF5PeAMQ5ETl1eu3v11YFecTBHyyWgk9seA6YYB6Gimi9yH7ZUDwAA="
+  },
+  "group-02": {
+    "width": 3000,
+    "height": 4000,
+    "widths": [
+      480,
+      960,
+      1440,
+      1920
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JYgCdBagBNPwZu3ccwx5swrAAANtapr34y+BCE9HDfy/WxQ/2NOvWu15wXJWCJkXkBuOzudkmKXVZ9DLJlt8gSStacCAS7rMhRMlRHX3nH/v7ahis3LjjlvUv0OV2R4mAbqapQB0IAanweZ7D3F8jye7ATdgYAAA="
+  },
+  "injection-treatment-room": {
+    "width": 1672,
+    "height": 941,
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAkAA4BaJZwAAq6PR3q4AP72QL1Yw6nNpmsiUu37iBAR8Uo6eSyOdZmYHIfjJNfKDt42/M+4rrgd55E1ayhsgAA="
+  },
+  "physical-therapy-room": {
+    "width": 1672,
+    "height": 941,
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAkAA4BaJZQCdADcZFs8jYAA/vZAnmMJmn+7upRhQVUiUes+bW1EGChuyCr5zvMHDMHtZbQUXCoKcO7yKy9MsueMRBGcSQAAAA=="
+  }
+}
