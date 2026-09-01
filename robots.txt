@@ -1,29 +1,3 @@
 User-Agent: *
-Allow: /
+Disallow: /
 
-User-Agent: GPTBot
-Allow: /
-
-User-Agent: OAI-SearchBot
-Allow: /
-
-User-Agent: ChatGPT-User
-Allow: /
-
-User-Agent: ClaudeBot
-Allow: /
-
-User-Agent: Claude-SearchBot
-Allow: /
-
-User-Agent: PerplexityBot
-Allow: /
-
-User-Agent: Google-Extended
-Allow: /
-
-User-Agent: Yeti
-Allow: /
-
-Host: https://sangjun2e-ddok.github.io/balanceone-preview
-Sitemap: https://sangjun2e-ddok.github.io/balanceone-preview/sitemap.xml
