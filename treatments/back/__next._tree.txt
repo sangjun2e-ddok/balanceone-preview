@@ -1,3 +1,3 @@
 :HL["/balanceone-preview/_next/static/css/e1e518f6f4820cf6.css","style"]
 :HL["/balanceone-preview/_next/static/css/bcec62583bea4fda.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"treatments","param":null,"prefetchHints":4160,"slots":{"children":{"name":"back","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"2YxmoEVZvJgrW2EkLZkNC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"treatments","param":null,"prefetchHints":4160,"slots":{"children":{"name":"back","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"N7_YFtsiazU9GxsxgZ7CA"}
