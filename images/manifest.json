@@ -11,15 +11,15 @@
     "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAgAA4BaJZwAAxblloRJwAD+mEUghlRnt4BZ5YIYbPMZvX9l5wxPwdj9NkMe2M76xPAAAAA="
   },
   "cert-spread-02": {
-    "width": 3800,
-    "height": 1820,
+    "width": 4032,
+    "height": 3024,
     "widths": [
       480,
       960,
       1440,
       1920
     ],
-    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAgAA4BaJZQAAp0/ixwAAPz6wlvygvFwNv2WnbEGSUQwmgmtrvUcS/DkSEukMX9GsMcpn8wFmNgIAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAwAA4BaJZQAAovQDke2AAD+7Fr/wCLyciJ+EqnVUBiG/H2RKv2b5IpmeBP3NTujhwBxoSiLjFJJgVMHK7YHquOyHbAiTUeZFmGN6YYAAA=="
   },
   "cert-study-feature": {
     "width": 1448,
