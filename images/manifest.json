@@ -42,6 +42,36 @@
     ],
     "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoQAAsAA4BaJbACdAYu5y1LH4P5/TBgAP2dbhAWjQuNd9Z/p/o3Oz9TSXoIT/wlepmkNq8tnxXnyNh9eL4W75cyw6Gtbx6oBStrwPggyLDAU2PUoGjRJgedpnyLbOgI2Ap1k6miAAA="
   },
+  "exercise-room-home": {
+    "width": 1447,
+    "height": 1087,
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAwAA4BaJQBOgCFgJ5xB7UgA/rGa0asE99GyhEG1kcJwbmWT0TQ42iXl9BwTFe6NbWD9pevJuXpLS8gTuS9B+qniv1uvsu8paFYw8AA="
+  },
+  "exercise-training-session": {
+    "width": 1448,
+    "height": 1086,
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAwAA4BaJQBOgMXcytk/5kUGsAD+a7hGhcUor4PlFx5OdG/uipBO2plnnE9I3J5xOPZ5Nt1QrFUnh6w/rUvF/jRvwBjXHeu1EXzeuWFWoy3gilKqfxLdHbb0P8Z4IAA="
+  },
+  "exercise-treatment-session": {
+    "width": 1550,
+    "height": 1015,
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQAAoAA4BaJZACdAYs3dUrWIfgAP6bFNcsCNNxu3hp8onf4DbDyoM6ERyFUifJio/7HjqZCCDAej6zXVTH7hWjSQOGLUeUGkGeeirXHsyJ4bobFWCLwTqhuZ+nEqzqLddEi+oWJAA="
+  },
   "group-01-retouched": {
     "width": 1448,
     "height": 1086,
